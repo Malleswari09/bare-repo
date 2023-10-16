@@ -11,17 +11,8 @@ public class BareApplication {
 	}
 
 }
-// commit 1a
-//commit 1b
-//commit 1c
-//commit 1d
-//commit 1e
-//commit 1f
-
-//revert 1
-//revert 2
-//revert 3
-//revert 5
 
 // A change in the local system
 //A change in the remote system - Github
+
+//A local change tht will conflict with change in remote
