@@ -12,7 +12,9 @@ public class BareApplication {
 
 }
 
+
 // A change in the local system
 //A change in the remote system - Github
+//A change in remote - no conflict
 
-//A local change tht will conflict with change in remote
+//A local change - no conflict
