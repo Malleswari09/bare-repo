@@ -22,3 +22,5 @@ public class BareApplication {
 //revert 2
 //revert 3
 //revert 5
+
+// A change in the local system
